@@ -1,0 +1,7 @@
+C:\Users\Huawei\source\repos\ClassTasks 2.10.21\ClassTasks 2.10.21\bin\Debug\ClassTasks 2.10.21.exe.config
+C:\Users\Huawei\source\repos\ClassTasks 2.10.21\ClassTasks 2.10.21\bin\Debug\ClassTasks 2.10.21.exe
+C:\Users\Huawei\source\repos\ClassTasks 2.10.21\ClassTasks 2.10.21\bin\Debug\ClassTasks 2.10.21.pdb
+C:\Users\Huawei\source\repos\ClassTasks 2.10.21\ClassTasks 2.10.21\obj\Debug\ClassTasks 2.10.21.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\ClassTasks 2.10.21\ClassTasks 2.10.21\obj\Debug\ClassTasks 2.10.21.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\ClassTasks 2.10.21\ClassTasks 2.10.21\obj\Debug\ClassTasks 2.10.21.exe
+C:\Users\Huawei\source\repos\ClassTasks 2.10.21\ClassTasks 2.10.21\obj\Debug\ClassTasks 2.10.21.pdb
